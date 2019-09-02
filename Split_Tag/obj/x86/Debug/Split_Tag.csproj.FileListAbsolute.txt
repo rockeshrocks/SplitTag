@@ -1,0 +1,6 @@
+C:\Users\AnushreeRakesh\Source\Repos\SplitTag\Split_Tag\obj\x86\Debug\Split_Tag.csprojAssemblyReference.cache
+C:\Users\AnushreeRakesh\Source\Repos\SplitTag\Split_Tag\obj\x86\Debug\Split_Tag.csproj.CoreCompileInputs.cache
+C:\Users\AnushreeRakesh\Source\Repos\SplitTag\Split_Tag\bin\Debug\Split_Tag.exe
+C:\Users\AnushreeRakesh\Source\Repos\SplitTag\Split_Tag\bin\Debug\Split_Tag.pdb
+C:\Users\AnushreeRakesh\Source\Repos\SplitTag\Split_Tag\obj\x86\Debug\Split_Tag.exe
+C:\Users\AnushreeRakesh\Source\Repos\SplitTag\Split_Tag\obj\x86\Debug\Split_Tag.pdb
