@@ -6,12 +6,16 @@ SplitTag is a utility program designed to extract and generate individual proces
 ## Example
 
 Input Tag: `10HBK10-20CP501&502`
+
 Output Tags:
 - `10HBK10CP501`
 - `10HBK10CP502`
 - `10HBK20CP501`
 - `10HBK20CP502`
 
+![image](https://github.com/user-attachments/assets/5850ac3a-71b6-4610-8e95-807b20e07975)
+
+Note: Instrument Count to be entered to validate the Input Tag.
 ## Typical Instrument Tag Format
 
 A single instrument tag follows the format: `10HBK10CP501`.
